@@ -41,7 +41,7 @@ Make sure to add your own API key in the project before running the app.
 ## 🧑‍💻 Author
 **Sarfraj Ansari**  
 Flutter Developer  
-GitHub: [@Sarfraj18](https://github.com/yourusername)
+GitHub: [@Sarfraj18](https://github.com/Sarfraj18)
 
 ---
 
